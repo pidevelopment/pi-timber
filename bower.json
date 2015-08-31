@@ -1,0 +1,9 @@
+{
+  "name": "pi-timber",
+  "version": "1.0.0",
+  "dependencies": {},
+  "private": true,
+  "devDependencies": {
+    "bootstrap": "~4.0"
+  }
+}
