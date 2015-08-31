@@ -1,2 +1,2 @@
-# timber-starter-theme
-The "_s" for Timber: a dead-simple theme that you can build from
+# Pi Timber
+A WordPress theme built using Timber and Gulp. Grab a copy and hack away.
